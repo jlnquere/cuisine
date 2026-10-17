@@ -5,6 +5,7 @@ title: Techniques de cuisine
 - [[Techniques/Ciseler|Ciseler]]
 - [[Techniques/Cuire le riz par absorption|Cuire le riz par absorption]]
 - [[Techniques/Cuire une côte de bœuf au barbecue|Cuire une côte de bœuf au barbecue]]
+- [[Techniques/Cuisiner la truffe simplement|Cuisiner la truffe simplement]]
 - [[Techniques/Déglacer|Déglacer]]
 - [[Techniques/Faire dégorger et essorer un légume|Faire dégorger et essorer un légume]]
 - [[Techniques/Faire suer|Faire suer]]
@@ -20,3 +21,4 @@ title: Techniques de cuisine
 - [[Techniques/Tailler en brunoise|Tailler en brunoise]]
 - [[Techniques/Torréfier des épices et des graines|Torréfier des épices et des graines]]
 - [[Techniques/Émincer|Émincer]]
+- [[Techniques/Étaler, garnir et enfourner une pizza|Étaler, garnir et enfourner une pizza]]
